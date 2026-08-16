@@ -8,7 +8,6 @@ I am a 4th-year Information Technology student with a strong foundation in backe
 * 🎓 Studying Information Technology at **Naresuan University** (GPAX: 3.40)
 * 💡 Passionate about building robust backend systems and real-time applications.
 * 🌱 Currently leveling up my skills in **Data Structures & Algorithms**
-* 💬 Ask me about: **Node.js, Express, or API Deployments**
 
 ## 🛠️ Tech Stack
 **Backend & Runtimes**  
